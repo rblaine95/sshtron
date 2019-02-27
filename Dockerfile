@@ -1,5 +1,4 @@
-ARG BASE_IMAGE=golang:latest
-FROM $BASE_IMAGE as builder
+FROM golang:latest as builder
 
 WORKDIR $GOPATH/src/github.com/zachlatta/sshtron
 ADD . .

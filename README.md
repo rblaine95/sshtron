@@ -1,5 +1,7 @@
 # ![SSHTron](https://cdn.rawgit.com/zachlatta/sshtron/master/logo.svg)
 
+[![Docker Repository on Quay](https://quay.io/repository/rblaine95/sshtron/status "Docker Repository on Quay")](https://quay.io/repository/rblaine95/sshtron)
+
 SSHTron is a multiplayer lightcycle game that runs through SSH. Just run the command below and you'll be playing in seconds:
 
     $ ssh sshtron.zachlatta.com
